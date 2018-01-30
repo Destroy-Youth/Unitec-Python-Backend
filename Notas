@@ -1,0 +1,9 @@
+#Frameworks para web server http://www.pixelmonkey.org/2012/06/14/web-app
+  -Django
+  -Flask http://flask.pocoo.org/docs/0.12/tutorial/views/
+  -Tornado
+  
+  
+ #view functions
+  -Funciones dentro del controlador (MVC) del servicio REST
+  
