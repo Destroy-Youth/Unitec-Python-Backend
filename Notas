@@ -7,3 +7,23 @@
  #view functions
   -Funciones dentro del controlador (MVC) del servicio REST
   
+
+
+#Databases
+  -No relacional
+    *Cassandra -> Almacenamiento Java <Clave,Valor>
+    *Jaql -> Orientada a datos JSON
+    *Lucene -> Busqueda en textos (PDFs,HTMLs,etc.) basado en indexación del archivo
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  #Big data https://www.ibm.com/developerworks/ssa/local/im/que-es-big-data/
+  #Hadoop http://wiki.apache.org/hadoop/PoweredBy
